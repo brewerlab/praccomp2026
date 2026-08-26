@@ -1,0 +1,17 @@
+total 1592
+drwxrwxr-x  5 brevver brevver    4096 Aug 26 17:58 .
+drwxr-x--- 55 brevver brevver    4096 Aug 26 18:01 ..
+drwxrwxr-x  2 brevver brevver    4096 Aug 24 18:05 data
+-rw-rw-r--  1 brevver brevver       0 Aug 26 18:03 dir_out.txt
+drwxrwxr-x  8 brevver brevver    4096 Aug 24 17:25 .git
+-rw-rw-r--  1 brevver brevver 1604933 Aug 24 17:52 PracComp_Data4BashExample.zip
+-rw-rw-r--  1 brevver brevver      15 Aug 19 17:28 README.md
+drwxrwxr-x  2 brevver brevver    4096 Aug 26 17:34 scripts
+
+
+Above are the directory listings for this folder:
+/home/brevver/praccomp2026
+
+
+Right now it is:
+Wed Aug 26 06:03:24 PM EDT 2026
