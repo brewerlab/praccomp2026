@@ -69,3 +69,15 @@ http://brewerlab.net - automatic
 ![Brewer Lab Logo, a bad drawing of a green spider](https://brewerlab.weebly.com/uploads/9/8/3/7/98371626/spiderdrawingslack.png) 
 
 ![Fat toroise taking a nap](./TortoiseFatNap.jpg)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterasks\*
+
+## FENCED CODE BLOCKS
+
+```
+echo "Hello"
+```
+
+
