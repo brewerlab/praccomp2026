@@ -41,3 +41,18 @@ _The Way We Were_ by G.A. Parker
 > And to the field I go no more, \
 > Papers, papers by the score \
 > Full of sums and such a bore.
+
+## LISTS
+
+Unordered
+* Item 1
+* Item 2
+	* Item 2a
+	* Item 2b
+
+Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+	* Item 3a
+	* Item 3b
